@@ -1,2 +1,3 @@
 # lamak
-my name is lamakaamir
+
+world-info
